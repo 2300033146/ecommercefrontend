@@ -30,14 +30,14 @@ const AboutUs = () => {
         <Link to="/laptops">
         <div className="about-item">
           <img src="laptops.jpeg" alt="Laptops" />
-          <h3>Laptops</h3>
+          <h3>electric cars</h3>
           <p>Powerful laptops for professionals, students, and gamers.</p>
         </div>
         </Link>
         <Link to="/pendrives">
         <div className="about-item">
           <img src="accessories.jpg" alt="Accessories" />
-          <h3>Accessories</h3>
+          <h3>watches</h3>
           <p>Find the best accessories like pendrives, keyboards, and more.</p>
         </div>
         </Link>
